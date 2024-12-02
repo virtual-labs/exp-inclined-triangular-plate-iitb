@@ -1,0 +1,1 @@
+<h3>AIM: To find Hydrostatic force on inclined triangular plate.</h3>
